@@ -1,0 +1,9 @@
+# Teams録画・文字起こし（個人情報/機密を含むためコミットしない）
+*.vtt
+*.mp4
+*.m4a
+*.wav
+transcript*
+文字起こし*
+録画*
+recording*
